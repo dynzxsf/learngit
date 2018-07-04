@@ -2,4 +2,5 @@ A
 C
 d
 noble agv
-slam 
+slam
+write 
